@@ -31,4 +31,3 @@ class BombaCombustivel:
 
     def set_quantidade_disponivel(self, quantidade_disponivel):
         self._quantidade_disponivel = quantidade_disponivel
-        
